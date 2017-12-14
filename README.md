@@ -19,3 +19,6 @@ Unless you have a quantum computer connected directly to an Amazon data center, 
 
 See the respective `README.md` for each project.
 # Fullstack_React_Code
+
+
+PS: I'm sharing the code on a non-profit purpose. If you want to buy the book, here is the link: https://www.fullstackreact.com
